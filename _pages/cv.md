@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Olivia Tolliver - Curriculum Vitae
+title: Olivia Tolliver - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** ot64@cornell.edu(mailto:ot64@cornell.edu) | | | **Phone:** +1 404-803-6880
+**Email:** [ot64@cornell.edu](mailto:ot64@cornell.edu) | | | **Phone:** +1 404-803-6880
 
 ---
 
@@ -20,7 +20,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: May, 2027
+  GPA: 3.8/4.3 | Graduation: May, 2027
 
 - **Marist School**  
   *High School Diploma*  
