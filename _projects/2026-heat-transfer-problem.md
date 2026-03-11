@@ -3,7 +3,7 @@ layout: project
 title: Thermal Bearing Coating (TBC) Performance Analysis
 description: Modeling turbine blade heat protection systems
 technologies: []
-image: /assets/images/echo-dot-speaker.jpg
+image: /assets/images/thermal-barrier-coating-problem.png
 ---
 
 ### **Selected Problem: Thermal Barrier Coatings (TBC) on Turbine Blades**
